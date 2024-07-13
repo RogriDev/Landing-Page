@@ -7,10 +7,6 @@ Este projeto é um site para um restaurante, apresentando seções como o iníci
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição
 
@@ -33,8 +29,6 @@ O projeto é um site de restaurante com um layout moderno e responsivo. Ele apre
 - **ScrollReveal:** Animações ao rolar.
 - **Font Awesome:** Ícones para botões sociais e de navegação.
 
-## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/RogriDev/Landing-Page.git
+
+
