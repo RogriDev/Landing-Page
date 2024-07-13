@@ -1,5 +1,11 @@
 # Site de Restaurante
 
+
+
+https://github.com/user-attachments/assets/4ef66994-7db6-46ee-9f7e-66cb3e80ade9
+
+
+
 Este projeto é um site para um restaurante, apresentando seções como o início, menu, depoimentos e rodapé. O site é responsivo e inclui animações para uma melhor experiência do usuário.
 
 ## Descrição
