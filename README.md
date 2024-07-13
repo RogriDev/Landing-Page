@@ -2,12 +2,6 @@
 
 Este projeto é um site para um restaurante, apresentando seções como o início, menu, depoimentos e rodapé. O site é responsivo e inclui animações para uma melhor experiência do usuário.
 
-## Índice
-
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
 ## Descrição
 
 O projeto é um site de restaurante com um layout moderno e responsivo. Ele apresenta um cabeçalho fixo, uma seção de início com um call-to-action, um menu de pratos, uma seção de depoimentos e um rodapé. As animações de rolagem são implementadas usando a biblioteca ScrollReveal, e o design é responsivo para dispositivos móveis e desktop.
